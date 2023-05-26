@@ -67,6 +67,7 @@ body{
 }
 #burgur{
     display: none;
+    cursor: pointer;
 }
 .list ul li a{
     text-decoration: none;
