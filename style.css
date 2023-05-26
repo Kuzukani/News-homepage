@@ -41,6 +41,7 @@ body{
     min-height: 100vh;
     padding:0;
     margin:0;
+    background-color: hsl(36, 100%, 99%);
 }
 .container{
     width: 1200px;
